@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "name": "Priya Raman",
+  "role": "Senior Advisor",
+  "city": "Madurai",
+  "phone": "+91 98400 11111",
+  "email": "priya@hearthandkey.in",
+  "deals": 57,
+  "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=70"
+ },
+ {
+  "id": 2,
+  "name": "Arjun Mehta",
+  "role": "Luxury Homes",
+  "city": "Chennai",
+  "phone": "+91 98400 22222",
+  "email": "arjun@hearthandkey.in",
+  "deals": 74,
+  "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&q=70"
+ },
+ {
+  "id": 3,
+  "name": "Kavya Nair",
+  "role": "Rentals Specialist",
+  "city": "Bengaluru",
+  "phone": "+91 98400 33333",
+  "email": "kavya@hearthandkey.in",
+  "deals": 91,
+  "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=70"
+ },
+ {
+  "id": 4,
+  "name": "Suresh Kumar",
+  "role": "Residential Sales",
+  "city": "Coimbatore",
+  "phone": "+91 98400 44444",
+  "email": "suresh@hearthandkey.in",
+  "deals": 108,
+  "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=70"
+ }
+]

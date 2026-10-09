@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "title": "Garden Villa in Anna Nagar",
+  "city": "Madurai",
+  "area": "Anna Nagar",
+  "type": "villa",
+  "status": "sale",
+  "price": 18500000,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 3200,
+  "year": 2021,
+  "featured": true,
+  "agentId": 1,
+  "images": [
+   "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Parking",
+   "Power backup",
+   "24x7 Security",
+   "Garden",
+   "Gym",
+   "Lift"
+  ],
+  "description": "A well-planned villa in Anna Nagar, Madurai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 2,
+  "title": "Sunlit 2BHK near Meenakshi Temple",
+  "city": "Madurai",
+  "area": "KK Nagar",
+  "type": "apartment",
+  "status": "rent",
+  "price": 22000,
+  "beds": 2,
+  "baths": 2,
+  "sqft": 1050,
+  "year": 2020,
+  "featured": false,
+  "agentId": 2,
+  "images": [
+   "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Power backup",
+   "24x7 Security",
+   "Garden",
+   "Gym",
+   "Lift",
+   "Swimming pool"
+  ],
+  "description": "A well-planned apartment in KK Nagar, Madurai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 3,
+  "title": "Sea-facing Penthouse",
+  "city": "Chennai",
+  "area": "ECR",
+  "type": "apartment",
+  "status": "sale",
+  "price": 42000000,
+  "beds": 4,
+  "baths": 5,
+  "sqft": 3800,
+  "year": 2022,
+  "featured": true,
+  "agentId": 3,
+  "images": [
+   "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "24x7 Security",
+   "Garden",
+   "Gym",
+   "Lift",
+   "Swimming pool",
+   "Clubhouse"
+  ],
+  "description": "A well-planned apartment in ECR, Chennai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 4,
+  "title": "Compact Studio for Professionals",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "type": "studio",
+  "status": "rent",
+  "price": 28000,
+  "beds": 1,
+  "baths": 1,
+  "sqft": 520,
+  "year": 2019,
+  "featured": false,
+  "agentId": 4,
+  "images": [
+   "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Garden",
+   "Gym",
+   "Lift",
+   "Swimming pool",
+   "Clubhouse",
+   "CCTV"
+  ],
+  "description": "A well-planned studio in Indiranagar, Bengaluru. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 5,
+  "title": "Family Home with Courtyard",
+  "city": "Coimbatore",
+  "area": "RS Puram",
+  "type": "house",
+  "status": "sale",
+  "price": 14200000,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 2400,
+  "year": 2018,
+  "featured": true,
+  "agentId": 1,
+  "images": [
+   "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Gym",
+   "Lift",
+   "Swimming pool",
+   "Clubhouse",
+   "CCTV",
+   "Water supply"
+  ],
+  "description": "A well-planned house in RS Puram, Coimbatore. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 6,
+  "title": "Modern 3BHK in Tech Corridor",
+  "city": "Chennai",
+  "area": "OMR",
+  "type": "apartment",
+  "status": "sale",
+  "price": 9800000,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1650,
+  "year": 2023,
+  "featured": true,
+  "agentId": 2,
+  "images": [
+   "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Lift",
+   "Swimming pool",
+   "Clubhouse",
+   "CCTV",
+   "Water supply",
+   "Parking"
+  ],
+  "description": "A well-planned apartment in OMR, Chennai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 7,
+  "title": "Hillside Retreat Villa",
+  "city": "Coimbatore",
+  "area": "Saravanampatti",
+  "type": "villa",
+  "status": "sale",
+  "price": 23500000,
+  "beds": 5,
+  "baths": 5,
+  "sqft": 4200,
+  "year": 2020,
+  "featured": false,
+  "agentId": 3,
+  "images": [
+   "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Swimming pool",
+   "Clubhouse",
+   "CCTV",
+   "Water supply",
+   "Parking",
+   "Power backup"
+  ],
+  "description": "A well-planned villa in Saravanampatti, Coimbatore. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 8,
+  "title": "Cozy 1BHK Near Metro",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "type": "apartment",
+  "status": "rent",
+  "price": 19500,
+  "beds": 1,
+  "baths": 1,
+  "sqft": 680,
+  "year": 2021,
+  "featured": false,
+  "agentId": 4,
+  "images": [
+   "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Clubhouse",
+   "CCTV",
+   "Water supply",
+   "Parking",
+   "Power backup",
+   "24x7 Security"
+  ],
+  "description": "A well-planned apartment in Whitefield, Bengaluru. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 9,
+  "title": "Heritage Style Independent House",
+  "city": "Madurai",
+  "area": "Tallakulam",
+  "type": "house",
+  "status": "sale",
+  "price": 11800000,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 2100,
+  "year": 2015,
+  "featured": false,
+  "agentId": 1,
+  "images": [
+   "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "CCTV",
+   "Water supply",
+   "Parking",
+   "Power backup",
+   "24x7 Security",
+   "Garden"
+  ],
+  "description": "A well-planned house in Tallakulam, Madurai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 10,
+  "title": "Skyline 3BHK with Pool Access",
+  "city": "Mumbai",
+  "area": "Powai",
+  "type": "apartment",
+  "status": "rent",
+  "price": 95000,
+  "beds": 3,
+  "baths": 3,
+  "sqft": 1450,
+  "year": 2022,
+  "featured": true,
+  "agentId": 2,
+  "images": [
+   "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Water supply",
+   "Parking",
+   "Power backup",
+   "24x7 Security",
+   "Garden",
+   "Gym"
+  ],
+  "description": "A well-planned apartment in Powai, Mumbai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 11,
+  "title": "Townhouse in Gated Community",
+  "city": "Bengaluru",
+  "area": "Sarjapur Road",
+  "type": "house",
+  "status": "sale",
+  "price": 16900000,
+  "beds": 4,
+  "baths": 4,
+  "sqft": 2800,
+  "year": 2021,
+  "featured": false,
+  "agentId": 3,
+  "images": [
+   "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Parking",
+   "Power backup",
+   "24x7 Security",
+   "Garden",
+   "Gym",
+   "Lift"
+  ],
+  "description": "A well-planned house in Sarjapur Road, Bengaluru. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ },
+ {
+  "id": 12,
+  "title": "Bright 2BHK Apartment",
+  "city": "Madurai",
+  "area": "Thirunagar",
+  "type": "apartment",
+  "status": "sale",
+  "price": 5400000,
+  "beds": 2,
+  "baths": 2,
+  "sqft": 980,
+  "year": 2022,
+  "featured": false,
+  "agentId": 4,
+  "images": [
+   "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=70",
+   "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=70"
+  ],
+  "amenities": [
+   "Power backup",
+   "24x7 Security",
+   "Garden",
+   "Gym",
+   "Lift",
+   "Swimming pool"
+  ],
+  "description": "A well-planned apartment in Thirunagar, Madurai. Natural light in every room, a practical layout and quick access to schools, hospitals and daily shopping. Clear title and ready for a site visit this week."
+ }
+]
